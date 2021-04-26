@@ -1,2 +1,2 @@
 # Brownian.js
-Trivial NBody Browser in App and Web
+Trivial Thermal Motion Simulator in App and Web
